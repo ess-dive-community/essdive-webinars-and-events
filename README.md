@@ -7,7 +7,7 @@ We ask for your ideas for ESS-DIVE webinar topics, potential speakers, and feedb
 ## How to contribute your ideas
 We have opened an issue in this repository for each topic we are considering. Please provide your input on these by adding comments to the issue that refine and expand the topic, suggest speakers or resources, or take the discussion in a new direction. 
 
-* Show your interest in a topic with emojis
+* Show your interest (or disinterest) in a topic with emojis
 * Add to an existing idea: propose speakers, resources, specific things to cover
 * Suggest a new topic by opening a [new issue](https://github.com/ess-dive-community/essdive-webinars-and-events/issues/new?assignees=&labels=0%2Fidea&template=webinar-idea.md&title=)
 * Encourage others to participate by sharing the link to your favorite topic
