@@ -12,5 +12,7 @@ We have opened an issue in this repository for each topic we are considering. Pl
 * Suggest a new topic by opening a [new issue](https://github.com/ess-dive-community/essdive-webinars-and-events/issues/new?assignees=&labels=0%2Fidea&template=webinar-idea.md&title=)
 * Encourage others to participate by sharing the link to your favorite topic
 
+Please remember that this repository is public and all comments will live on publicly. You can also submit webinar ideas privately by contacting [ESS-DIVE support or our mailing list](https://ess-dive.lbl.gov/contact/).
+
 ## Acknowledgements
 We were inspired by [ROpenSci](https://github.com/ropensci-org/community-calls) and [DataONE](https://github.com/DataONEorg/community-calls) Community Call approach and have modeled this approach to gathering ideas based on their successful model. We borrowed extensively from their community call documentation. Thank you ROpenSci and DataONE!
