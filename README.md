@@ -1,1 +1,16 @@
-# essdive-webinars-and-events
+# ESS-DIVE Community Webinars
+ESS-DIVE holds [community webinars](https://ess-dive.lbl.gov/webinars/) approximately monthly for presentations and discussion on a variety of topics related to data management, preservation, and standardization. These are open for anyone to attend and help promote shared approaches to research data management for data contributors and users of ESS-DIVE. This github repository is used to gather input and ideas for topics in these community webinars. Webinars are one hour long, with time for presentations and discussion. 
+
+## What topic do you want to see in our next ESS-DIVE Community Webinar? 
+We ask for your ideas for ESS-DIVE webinar topics, potential speakers, and feedback on refining any other proposed topics to be most useful to the community, and votes on which topics should be prioritized. Topics might involve ESS-DIVE features, standard reporting formats, data management and preservation, data integration, data use, and more.  
+
+## How to contribute your ideas
+We’ve opened an issue in this repository for each topic we’re considering. Please provide your input on these by adding comments to the issue that refine and expand the topic, suggest speakers or resources, or take the discussion in a new direction. 
+
+* Show your interest in a topic
+* Add to an existing idea: propose speakers, resources, specific things to cover
+* Suggest a new topic by optening a new issue
+* Envourage others to weight in by sharing the link to your favorite topic
+
+## Acknowledgements
+We were inspired by [ROpenSci](https://github.com/ropensci-org/community-calls) and [DataONE](https://github.com/DataONEorg/community-calls) Community Call approach and have modeled this approach to gathering ideas based on their successful model. We borrowed extensively from their community call documentation. Thank you ROpenSci and DataONE!
