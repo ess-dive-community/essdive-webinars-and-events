@@ -2,7 +2,7 @@
 name: Webinar Topic
 about: Ideas and discussion for topics for a community webinar
 title: ''
-labels: 0/idea
+labels: community
 assignees: ''
 
 ---
