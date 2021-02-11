@@ -15,4 +15,4 @@ We have opened an issue in this repository for each topic we are considering. Pl
 This repository is public and all comments will live on publicly. You can also submit webinar ideas privately by contacting [ESS-DIVE support or our mailing list](https://ess-dive.lbl.gov/contact/).
 
 ## Acknowledgements
-We were inspired by [ROpenSci](https://github.com/ropensci-org/community-calls) and [DataONE](https://github.com/DataONEorg/community-calls) Community Call approach and have modeled this approach to gathering ideas based on their successful model. We borrowed extensively from their community call documentation. Thank you ROpenSci and DataONE!
+We were inspired by the [ROpenSci](https://github.com/ropensci-org/community-calls) and [DataONE](https://github.com/DataONEorg/community-calls) Community Call approach and have modeled this approach to gathering ideas based on their successful model. We borrowed extensively from their community call documentation. Thank you ROpenSci and DataONE!
