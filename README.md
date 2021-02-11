@@ -9,7 +9,7 @@ We’ve opened an issue in this repository for each topic we’re considering. P
 
 * Show your interest in a topic
 * Add to an existing idea: propose speakers, resources, specific things to cover
-* Suggest a new topic by optening a new issue
+* Suggest a new topic by optening a [new issue](https://github.com/ess-dive-community/essdive-webinars-and-events/issues/new?assignees=&labels=0%2Fidea&template=webinar-idea.md&title=)
 * Envourage others to weight in by sharing the link to your favorite topic
 
 ## Acknowledgements
