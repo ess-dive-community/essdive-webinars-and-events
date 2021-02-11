@@ -11,7 +11,7 @@ assignees: ''
 _Provide a brief paragraph describing the topic_
 
 
-## Relationship to DataONE?
+## Relationship to ESS-DIVE?
 _Describe how this topic is relevant to the ESS-DIVE community, and who might be interested in the discussion and outcomes_
 
 
