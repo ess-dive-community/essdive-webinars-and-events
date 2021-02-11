@@ -5,12 +5,12 @@ ESS-DIVE holds [community webinars](https://ess-dive.lbl.gov/webinars/) approxim
 We ask for your ideas for ESS-DIVE webinar topics, potential speakers, and feedback on refining any other proposed topics to be most useful to the community, and votes on which topics should be prioritized. Topics might involve ESS-DIVE features, standard reporting formats, data management and preservation, data integration, data use, and more.  
 
 ## How to contribute your ideas
-We’ve opened an issue in this repository for each topic we’re considering. Please provide your input on these by adding comments to the issue that refine and expand the topic, suggest speakers or resources, or take the discussion in a new direction. 
+We have opened an issue in this repository for each topic we are considering. Please provide your input on these by adding comments to the issue that refine and expand the topic, suggest speakers or resources, or take the discussion in a new direction. 
 
-* Show your interest in a topic
+* Show your interest in a topic with emojis
 * Add to an existing idea: propose speakers, resources, specific things to cover
-* Suggest a new topic by optening a [new issue](https://github.com/ess-dive-community/essdive-webinars-and-events/issues/new?assignees=&labels=0%2Fidea&template=webinar-idea.md&title=)
-* Envourage others to weight in by sharing the link to your favorite topic
+* Suggest a new topic by opening a [new issue](https://github.com/ess-dive-community/essdive-webinars-and-events/issues/new?assignees=&labels=0%2Fidea&template=webinar-idea.md&title=)
+* Encourage others to participate by sharing the link to your favorite topic
 
 ## Acknowledgements
 We were inspired by [ROpenSci](https://github.com/ropensci-org/community-calls) and [DataONE](https://github.com/DataONEorg/community-calls) Community Call approach and have modeled this approach to gathering ideas based on their successful model. We borrowed extensively from their community call documentation. Thank you ROpenSci and DataONE!
